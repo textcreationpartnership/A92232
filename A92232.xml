@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for restraining the factors of Blackwell-Hall, from dealing in Spanish and English vvooll</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92232</idno><idno type="EEBO-CITATION">36273460</idno>
+  <idno type="VID">150193</idno>
+  <idno type="EEBO-PROQUEST">2240876810</idno>
+  
+            <idno type="STC">Wing R510</idno>
+            <idno type="STC">ESTC R42386</idno>
+            <idno type="OCLC">36273460</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for restraining the factors of Blackwell-Hall, from dealing in Spanish and English vvooll</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Blackwell Hall (London, England)</term>
+               <term type="topical_term">Wool --  Great Britain --  Marketing --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150193:1"/>
+            <head>REASONS for Restraining the <hi>Factors</hi> of <hi>Black-well-Hall,</hi> from Dealing in <hi>Spanish</hi> and <hi>English VVOOLL.</hi>
+            </head>
+            <p n="1">I. THE Maker of <hi>Spanish Cloth</hi> in <hi>Holland</hi> is the Merchant-Importer of his Wooll, and no Charge upon the Commodity between him and the Merchant.</p>
+            <p n="2">II. By the Ingrossing of <hi>Spanish Wooll</hi> by the <hi>Factors,</hi> the Clothier in <hi>England</hi> have lately Wrought his <hi>Spanish Wooll</hi> at Three Shillings Six Pence <hi>per</hi> Pound; when the Maker in <hi>Holland</hi> have had his at Two Shillings Four Pence; And the same Wooll was bought by the Factor at Two Shillings Four Pence. Our Mer<g ref="char:EOLhyphen"/>chants are now buying Fine Cloth in <hi>Holland</hi> to Export to <hi>Turkey,</hi> being considerably Cheaper than can be afforded in <hi>England,</hi> which will occasion the Loss of our Foreign-Trade, if we are able to bear the Excise at home.</p>
+            <p>Obj. <hi>The Clothier is not forc'd to buy his Wooll of the Factor.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> The Sale of Cloth being in the Management of the <hi>Factors,</hi> if the Wooll is not bought of them, the Cloth will be undervalued, and other preferr'd. If any Wooll be bought at <hi>Exon</hi> or <hi>Bristol</hi> (the fairest Ports for the Clothier) <hi>Bills</hi> shall not be Paid, and the Cloth represented to be Course, and the Price hereby Sunk Six Pence <hi>per</hi> Yard: And which is harder, some <hi>London</hi> Merchants have lately refused to Sell Five or Ten Bags of Wooll to a Clothier, though he had Money to Pay, which shews a Combination between the <hi>Merchant</hi> and <hi>Factor:</hi> And Wooll has been Bought up at <hi>Exon</hi> and <hi>Bristoll</hi> by the <hi>Factors,</hi> and Sold to the <hi>Clothiers</hi> at Advance Prices.</p>
+            <p>Obj. <hi>But the</hi> Factors <hi>buy Quantities, and lend it to the</hi> Clothiers; <hi>and when they can't Sell their Cloth, supply them with Wooll.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> The <hi>Factors</hi> take Six, Nine, and Twelve Months time in the Payment for their Wooll of the <hi>Merchant;</hi> and the <hi>Clothiers,</hi> by the Management of the <hi>Factor,</hi> are forc'd to Lend out their Cloth, and thereby forc'd to borrow their Wooll, whilest the <hi>Factor</hi> gets the Profit, when the Credit is given by the <hi>Merchant.</hi>
+            </p>
+            <p>And to have the Market glutted with Cloth (which is the Support of the <hi>Factor</hi>) is Pre<g ref="char:EOLhyphen"/>judicial to Trade in the General, and doth not Increase, but Lessen the Consumption; One Hundred Pounds worth of Cloth lying Six Months for Sale, is Three <hi>per Cent.</hi> the Dearer to the Consumer, by the Interest of the Money. And when Trade was Manag'd without <hi>Factors</hi> (which is well in Memory) the <hi>Clothier</hi> had Money for his Cloth, and made more Cloth with One Hundred Pounds, than he can now with Three. A nimble turn of the Stock is the best way for a little <hi>Clothier</hi> to get up, who Works his own Cloth himself: And if there is occasion for a Person between the <hi>Merchant</hi> and <hi>Clothier</hi> in <hi>Spanish Wooll,</hi> enough would take up the Practice, and the <hi>Clothier</hi> in that Case would be upon an equal Foot in the Buying his Wooll, when most is now sent down by the <hi>Factors</hi> at their own Prizes: And the most considerable Merchants in former times would sell One or Two Bags at a time to Clothiers for Money, or Credit. And vast Losses have happened to the <hi>Clothiers</hi> by the Failure of <hi>Factors</hi> at <hi>Blackwell-Hall,</hi> and it would be tedious to enumerate their tricking and unfair Practices, in allowing a <hi>Merchant</hi> or <hi>Woollen-Draper</hi> a good <hi>Penny<g ref="char:EOLhyphen"/>worth</hi> in the <hi>Clothier</hi>'s Cloth, to obtain a better <hi>Penny-worth</hi> of Wool to themselves, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">III. The <hi>Factor</hi>'s Ware-house of <hi>English</hi> Wool in conjunct Interest with the Wooll-Bro<g ref="char:EOLhyphen"/>guer, is a greater hardship upon the <hi>Clothier,</hi> and more prejudicial to the Publick, which is now become a general <hi>Practice,</hi> and an extraordinary <hi>Profit,</hi> have lately been gained by these persons out of <hi>English</hi> Wooll. Our Commodities have hereby been very much debased, and rendred Ten <hi>per Cent.</hi> the dearer at <hi>Foreign Markets,</hi> which will be of dangerous consequence to our Foreign Trade, if not prevented, when so many new Fabricks are setting up against us Abroad; And <hi>Wool-Brogers</hi> are thought very oppressive, as appears by many <hi>Petitions,</hi> who have great Encouragement from <hi>Factors.</hi>
+            </p>
+            <p n="4">IV. This unnecessary Charge being saved in all the <hi>Woollen-Manufacturers</hi> abroad, it is a great Inducement to our Neighbours to get our Wooll from us.</p>
+            <p n="5">V. The Late Act of <hi>Parliament</hi> intended to relieve the <hi>Clothiers</hi> in this particular, by taking of Notes for Cloth sold for time, payable to the Owner of the Cloth, have been ren<g ref="char:EOLhyphen"/>dered ineffectual by the <hi>Factors</hi> Weekly-Meeting, deep Consults, the best Council consulted, a formal Demand made to the Merchant, and at the same time desir'd not to give a Note, (which can be proved) and the benefit of this Act will not be obtain'd, but by a restraint of this Nature.</p>
+            <p>Obj. <hi>But this will be against the Right of a Freeman of</hi> London.</p>
+            <p>
+               <hi>Answ.</hi> The Publick Market of <hi>Blackwell-Hall</hi> is allowable only to Foreigners to Sell, and none but Freemen, by the Government of the City of <hi>London,</hi> can come there to Buy, and the Customs of Foreign bought, and Foreign sold, was forc'd to be taken off by Act of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> to Enable Freemen of the City of <hi>London,</hi> to act as <hi>Factors</hi> in the Sale of Cattle in <hi>Smithfield—Vicesimo Secundo Carolo</hi> II. which was never yet done for the <hi>Factors</hi> of <hi>Black-well-Hall.</hi>
+            </p>
+            <p>The Government of the Clothing-Trade being got into the Hands of Eight or Ten <hi>Fa<g ref="char:EOLhyphen"/>ctors,</hi> they think themselves above Controul, and <hi>Phaeton</hi>-like (being got into their Chari<g ref="char:EOLhyphen"/>ots with Liveries of Green) fit to govern the WORLD.</p>
+            <pb facs="tcp:150193:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
